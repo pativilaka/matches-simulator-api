@@ -3,7 +3,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
        "nome": "Maracanã",
-       "imagem":"TODO"
+       "imagem":"https://www.lance.com.br/files/article_main/uploads/2022/07/27/62e1fb955409a.jpeg"
     },
     "mandante": {
         "nome": "Brasil",
@@ -20,7 +20,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
        "nome": "Estádio General Santander",
-       "imagem":"TODO"
+       "imagem":"https://upload.wikimedia.org/wikipedia/commons/7/77/EstadioGeneralSantander.jpg"
     },
     "mandante": {
         "nome": "Colombia",
@@ -37,7 +37,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
        "nome": "Estádio Centenário",
-       "imagem":"TODO"
+       "imagem":"https://www.lance.com.br/files/article_main/uploads/2021/11/26/61a144d25523b.jpeg"
     },
     "mandante": {
         "nome": "Brasil",
